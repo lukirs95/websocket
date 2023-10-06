@@ -1,5 +1,7 @@
 # websocket
 
+THIS IS JUST A FORK!!!
+
 [![godoc](https://godoc.org/nhooyr.io/websocket?status.svg)](https://pkg.go.dev/nhooyr.io/websocket)
 [![coverage](https://img.shields.io/badge/coverage-88%25-success)](https://nhooyrio-websocket-coverage.netlify.app)
 
